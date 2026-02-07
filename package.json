@@ -74,10 +74,10 @@
     "@actions/exec": "^2.0.0",
     "@actions/http-client": "^3.0.0",
     "@actions/tool-cache": "^2.0.2",
-    "axios": "^1.13.2",
-    "fast-xml-parser": "^5.3.3",
+    "axios": "^1.13.4",
+    "fast-xml-parser": "^5.3.4",
     "jsdom": "^27.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "string-pixel-width": "^1.11.0",
     "textlint-filter-rule-allowlist": "^4.0.0"
   },
